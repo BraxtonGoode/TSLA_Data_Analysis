@@ -15,27 +15,27 @@
 
 1. Overall Question 1: Find the top 10 days with the highest trading volume and analyze what happened to prices on those days?
 
-   1.1 Sub Question 1.1: What is the highest volume trade day?
+   1.1 Sub Question: What is the highest volume trade day?
         - Answer: Date: Feb 4, 2020 With a volume of 304,694,000 and a price change of 0.82 which is (0.46%)
 
-    1.2 Sub Question 1.2: What is the lowest volume trade day among the top 10?
+    1.2 Sub Question: What is the lowest volume trade day among the top 10?
         - Answer: Date: May 1, 2020 With a volume of 162,659,000 and a price change of -10.74 which is (-7.11%)
 
-    1.3 Sub Question 1.3: Do high volume days usually result in an increase or decrease in price?
+    1.3 Sub Question: Do high volume days usually result in an increase or decrease in price?
         - Answer: Out of the top 10 highest volume days, 5 resulted in a price increase while 5 resulted in a price decrease. High volume days do not show a clear tendency to result in either an increase or decrease in price.
 
-    1.4 Sub Question 1.4: What is the average volume on the top 10 highest volume days?
+    1.4 Sub Question: What is the average volume on the top 10 highest volume days?
         - Answer: The average volume on the top 10 highest volume days is 207,873,070.
 
 2. Question 2: Figure out which months are most volatile for TSLA stock and identify seasonal patterns?
 
-    2.1 Sub Question 2.1: Which month is the most volatile on average?
+    2.1 Sub Question: Which month is the most volatile on average?
       - Answer: The most volatile month is January with an average price change volatility of 14.48
 
-    2.2 Sub Question 2.2: Which month is the most stable on average?
+    2.2 Sub Question: Which month is the most stable on average?
         - Answer: The most stable month is June with an average price change volatility of 4.68
 
-    2.3 Sub Question 2.3: Are there any seasonal patterns in volatility?
+    2.3 Sub Question: Are there any seasonal patterns in volatility?
         - Answer: 
         - Spring (March, April, May) has an average volatility of 8.07
         - Summer (June, July, August) has an average volatility of 5.61
@@ -44,13 +44,13 @@
 
 3. Question 3: how has TSLA's performance varied year-by-year?
 
-    3.1 Sub Question 3.1: Which year had the highest annual return?
+    3.1 Sub Question: Which year had the highest annual return?
         - Answer: The best performing year was 2020 with an annual return of 731.18%.
 
-    3.2 Sub Question 3.2: Which year had the lowest annual return?
+    3.2 Sub Question: Which year had the lowest annual return?
         - Answer: The worst performing year was 2022 with an annual return of -11.66%.
 
-    3.3 Sub Question 3.3: What is the overall average annual return across all years?
+    3.3 Sub Question: What is the overall average annual return across all years?
         - Answer: The overall average annual return across all years is: 99.76%
 
 
