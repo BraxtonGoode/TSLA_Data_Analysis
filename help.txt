@@ -1,0 +1,10 @@
+Tesla stock
+https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021
+
+
+youtube on pandas
+https://www.youtube.com/watch?v=EXIgjIBu4EU
+
+W3school
+https://www.w3schools.com/python/default.asp
+
