@@ -1,10 +1,9 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+- The purpose behind this program is to get a better understanding of data analysis and how to use it to analyze stock data.  I chose to analyze TSLA stock data because I am interested in the stock market and I wanted to see how I could use data analysis to gain insights into the performance of a specific stock.  The data set that I am using is from Kaggle and it contains daily stock data for TSLA from June 29, 2010 to June 29, 2021.  The data includes columns such as Date, Open, High, Low, Close, Volume, and Price Change.
+[Kaggle - TESLA Stock Data](https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021)
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
-
-{Describe your purpose for writing this software to analyze the data.}
+- The purpose of this software is to analyze the TSLA stock data and gain insights into the performance of the stock over time.  I want to be able to answer questions such as: What are the top 10 days with the highest trading volume and what happened to prices on those days? Which months are most volatile for TSLA stock and are there any seasonal patterns? How has TSLA's performance varied year-by-year?  By answering these questions, I hope to gain a better understanding of how to use data analysis to analyze stock data and gain insights into the performance of a specific stock.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
