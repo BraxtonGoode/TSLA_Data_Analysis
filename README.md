@@ -5,9 +5,8 @@
 
 - The purpose of this software is to analyze the TSLA stock data and gain insights into the performance of the stock over time.  I want to be able to answer questions such as: What are the top 10 days with the highest trading volume and what happened to prices on those days? Which months are most volatile for TSLA stock and are there any seasonal patterns? How has TSLA's performance varied year-by-year?  By answering these questions, I hope to gain a better understanding of how to use data analysis to analyze stock data and gain insights into the performance of a specific stock.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/79z1-JUL6XM)
 
 # Data Analysis Results
 
@@ -26,7 +25,7 @@
     1.4 Sub Question: What is the average volume on the top 10 highest volume days?
         - Answer: The average volume on the top 10 highest volume days is 207,873,070.
 
-2. Question 2: Figure out which months are most volatile for TSLA stock and identify seasonal patterns?
+2. Overall Question 2: Figure out which months are most volatile for TSLA stock and identify seasonal patterns?
 
     2.1 Sub Question: Which month is the most volatile on average?
       - Answer: The most volatile month is January with an average price change volatility of 14.48
@@ -41,7 +40,7 @@
         - Fall (September, October, November) has an average volatility of 9.00
         - Winter (December, January, February) has an average volatility of 13.28
 
-3. Question 3: how has TSLA's performance varied year-by-year?
+3. Overall Question 3: how has TSLA's performance varied year-by-year?
 
     3.1 Sub Question: Which year had the highest annual return?
         - Answer: The best performing year was 2020 with an annual return of 731.18%.
@@ -58,7 +57,7 @@
 
 - This software was developed using Visual Studio Code with the Jupyter Notebook extension. The code is written in Python, utilizing libraries such as Pandas for data manipulation and Matplotlib for data visualization.
 
-The programming language used for this project is Python. The primary libraries utilized include: pandas for data manipulation and analysis and matplotlib for data visualization.
+- The programming language used for this project is Python. The primary libraries utilized include: pandas for data manipulation and analysis and matplotlib for data visualization.
 
 # Useful Websites
 
@@ -70,7 +69,6 @@ The programming language used for this project is Python. The primary libraries 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Item 1: I created a single file with the different questions and answers.  I would like to break this up into separate files for each question and answer in the future.
 * Item 2: I would like to add more questions and answers to this project in the future.  I only have 3 questions and answers right now, but I would like to add more to further demonstrate my skills.
 * Item 3: Right now it only has analysis of TSLA stock data. I would like to create a way that I can easily swap out the data set to analyze different stocks in the future.  This would make it more reusable and allow me to analyze other stocks as well.
